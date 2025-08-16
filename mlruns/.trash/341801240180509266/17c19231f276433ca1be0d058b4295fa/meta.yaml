@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341801240180509266/17c19231f276433ca1be0d058b4295fa/artifacts
+deleted_time: 1755374158265
+end_time: 1755373728347
+entry_point_name: ''
+experiment_id: '341801240180509266'
+lifecycle_stage: deleted
+run_id: 17c19231f276433ca1be0d058b4295fa
+run_name: enchanting-snake-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755373716234
+status: 3
+tags: []
+user_id: manoj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/688490322707404796/7fe6e9955616491a96e13969d16cfa0f/artifacts
+deleted_time: 1755374096202
+end_time: 1755371750392
+entry_point_name: ''
+experiment_id: '688490322707404796'
+lifecycle_stage: deleted
+run_id: 7fe6e9955616491a96e13969d16cfa0f
+run_name: luminous-newt-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755371747019
+status: 3
+tags: []
+user_id: manoj

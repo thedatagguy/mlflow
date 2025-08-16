@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+fastapi[all]
+sweetviz
+setuptools
+python-multipart
+mlflow
